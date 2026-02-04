@@ -39,7 +39,7 @@ Mark embodies the core philosophy of "Unity of Hands and Heart":
 Mark is committed to evidence-based medicine, integrating personalized treatment plans to address individual patient needs.
 
 ### Professional Background
-With experience in the public healthcare system, Mark has worked closely with multidisciplinary medical teams, gaining profound insight into the role and significance of physiotherapy in clinical rehabilitation. After completing advanced academic and clinical training, Mark served as a physiotherapist at the Rehabilitation Clinic of The Hong Kong Polytechnic University. In this role, he was also involved in clinical teaching. Later, he joined a private orthopedic specialist medical center, focusing on providing personalized treatment plans for patients. To further enhance his professional skills and knowledge, he has pursued advanced training and acquired the following certifications and qualifications:
+With experience in the public healthcare system, Mark has worked closely with multidisciplinary medical teams, gaining profound insight into the role and significance of physiotherapy in clinical rehabilitation. After completing advanced academic and clinical training, Mark served as a physiotherapist at the Rehabilitation Clinic of The Hong Kong Polytechnic University. In this role, he was also involved in clinical teaching. Later, Mark joined a private orthopedic specialist medical center, focusing on providing personalized treatment plans for patients. To further enhance his professional skills and knowledge, Mark has pursued advanced training and acquired the following certifications and qualifications:
 
 - Registered Physiotherapy (HK)
 - BSc (Hons) in Physiotherapy (PolyU, HK)
@@ -49,4 +49,4 @@ With experience in the public healthcare system, Mark has worked closely with mu
 - Certificate in Long's bone-setting manipulations
 
 ### Public Engagement
-Mark had been a guest physiotherapist on the RTHK program "Health and Happiness". Additionally, Mark hosted an online seminar for the Rehabilitation Clinic of The Hong Kong Polytechnic University, delivering a lecture titled "Types and Causes of Running Injuries".
+Mark has been a guest physiotherapist on the RTHK program "Health and Happiness". Additionally, Mark hosted an online seminar for the Rehabilitation Clinic of The Hong Kong Polytechnic University, delivering a lecture titled "Types and Causes of Running Injuries".
