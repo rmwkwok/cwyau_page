@@ -7,6 +7,8 @@ header:
   show_overlay_excerpt: false
 sidebar:
   nav: "blog"
+json_ld_list:
+  - json_ld/posts.json
 title: "臀痛? 伸延到腳? 麻痺，行路辛苦? 可能有以下病症..."
 categories:
   - 梨狀肌綜合症

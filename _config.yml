@@ -43,7 +43,6 @@ search: true # site-wide search
 lunr:
   search_within_pages: true
 
-
 # SEO
 # google_site_verification: "yourVerificationCode"
 # bing_site_verification: "0FC3FD70512616B052E755A56F8952D"
@@ -194,3 +193,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+jsonld:
+  org_rehabmotion: "https://www.rehabmotion.hk/#organization"

@@ -5,6 +5,8 @@ header:
   overlay_color: "#333"
   right_image: "/assets/images/banner/banner_about.png"
   title: "簡介"
+json_ld_list:
+  - json_ld/person_cwyau_base.json
 title: "簡介 | 理大手法治療碩士、針灸及正骨專家 | 痛症紓解"
 description: "邱忠榮物理治療師秉持『手心合一』理念，具備理大手法治療碩士、針灸文憑及龍氏正骨等多項專業資歷，曾任職於理大康復診所，擅長處理骨科痛症及跑步傷患。曾受邀擔任港台《做個健康快活人》嘉賓，憑藉臨床經驗與真誠關懷，助您全方位復原。我們位於尖沙咀地鐵站旁，歡迎透過電話或 WhatsApp +852 6357 8708 預約諮詢。"
 ---

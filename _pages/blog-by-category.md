@@ -4,11 +4,12 @@ search: false
 classes: wide
 layout: categories
 author_profile: true
-# tagline:
 header:
   overlay_color: "#333"
   overlay_image: "/assets/images/banner/banner_model_waist.png"
   title: "健康資訊"
+json_ld_list:
+  - json_ld/person_cwyau_base.json
 sidebar:
   nav: "blog"
 title: "健康資訊 | 短文章 | YouTube 影片"
