@@ -79,6 +79,20 @@ Source: https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/ */
   background-size: cover;
 }
 
+/* Remove the border around linked image when the image is clicked*/
+a:focus img {
+    outline: none;
+}
+
+a:focus-visible img {
+    outline: 2px solid blue;
+    outline-offset: 2px;
+}
+
+a img {
+    border: none;
+}
+
 /* Right image on header banner */
 .page__hero-right-image {
   position: absolute;
