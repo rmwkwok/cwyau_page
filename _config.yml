@@ -202,6 +202,7 @@ jsonld:
 
 sass:
   style: compressed
+  quiet_deps: true # silent warnings
 
 compress_html:
   clippings: all
